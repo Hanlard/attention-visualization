@@ -1,1 +1,3 @@
 # attention-visualization
+
+对transformers包的中文BERT和GPT2每一层注意力矩阵进行可视化
